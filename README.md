@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tiny-roboto. I'm learning to code. 
+- 👀 I’m interested in finding ways to work smarter with automation and API.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python projects to process and transfer business data.
+- 📫 How to reach me ... Will update this later.
